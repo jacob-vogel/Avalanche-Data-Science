@@ -1,2 +1,2 @@
 # Avalanche-Data-Science
-An ongoing data science approach to analyzing the risk and working towards predicting dangerous avalanches in the United States.
+An ongoing analysis of avalanche data that works towards predicting dangerous avalanches in the United States.
